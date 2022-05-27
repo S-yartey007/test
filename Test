@@ -1,0 +1,10 @@
+#include <studio.h>
+#include <cs50.h>
+
+Int main(void){
+
+string name = get_string("what is your name? ");
+printf{
+        "My name is %s \n", name;       
+}
+}
